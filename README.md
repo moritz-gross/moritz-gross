@@ -1,16 +1,15 @@
 ## Hi there 👋
 
-<!--
-**Morinator/Morinator** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m interested in Programming, Math and AI.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<hr style="border:2px solid gray"> </hr>
+<p align="center"> 
+  <img src="https://vercel-6fg5.vercel.app/api?username=Morinator&show_icons=true&line_height=27&hide_title=true&theme=transparent" />
+</p>  
+
+<p align="center"> 
+  <img src="https://vercel-6fg5.vercel.app/api/top-langs/?username=Morinator&show_icons=true&theme=transparent" />
+</p> 
+
+### My favourite projects
