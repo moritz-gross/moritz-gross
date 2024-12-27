@@ -1,10 +1,10 @@
-## Hi there 👋
+# Hi there 👋
 
 I’m interested in Programming, Math and AI.
 
-### some of my favourite (public) projects
+## some of my favourite (public) projects
 
-#### Fixcon
+### Fixcon
 
 For a big part of my Bachelor studies, I worked part-time as a research engineer for the Algorithms research group of my university.
 
