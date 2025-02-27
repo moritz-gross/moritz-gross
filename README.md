@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I’m interested in Programming, Math and AI.
+I’m interested in programming, math and AI.
 
 ## some of my favourite (public) projects
 
