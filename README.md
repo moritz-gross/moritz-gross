@@ -1,11 +1,4 @@
 # Hi there 👋
 
-I’m interested in programming, math and AI.
-
-## some of my favourite (public) projects
-
-### Fixcon
-
-For a big part of my Bachelor studies, I worked part-time as a research engineer for the Algorithms research group of my university.
-
-I implemented a [solver](https://www.uni-marburg.de/en/fb12/research-groups/algorith/software/fixcon) for a graph problem based on [this](https://www.uni-marburg.de/de/fb12/arbeitsgruppen/algorith/paper/alenex20-fixcon.pdf) paper.
+I'm pursuing a Master's degree in Data Science, focusing on AI, algorithms, complexity, and their intersection.
+I'm also working for [www.math4vip.org](www.math4vip.org), a university project focused on making STEM accessible to blind people. 
