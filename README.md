@@ -1,6 +1,7 @@
 # Hi there 👋
 
 I’m interested in programming, math and AI.
+Visit  moritz-gross.github.io/  for details.
 
 ## some of my favourite (public) projects
 
