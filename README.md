@@ -1,8 +1,8 @@
-Hi there 👋. 
+### Hi 👋
 
-I'm pursuing a Master's degree in Data Science, focusing on AI, algorithms, complexity, and their intersection.
+- Studying M.Sc. in Data Science. Focus on machine learning and algorithms.
+- working part time for [Math4VIP](www.math4vip.org), a university project focused on making STEM accessible to blind people.
 
-I'm also working for [Math4VIP](www.math4vip.org), a university project focused on making STEM accessible to blind people.
-
-
-My personal website [can be found here](https://moritz-gross.github.io/).
+### links
+- ☀️ [personal website](https://moritz-gross.github.io/)
+- 📬 [email](hi@mgross.dev)
