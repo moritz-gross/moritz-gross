@@ -5,4 +5,4 @@
 
 ### links
 - ☀️ [personal website](https://moritz-gross.github.io/)
-- 📬 [email](hi@mgross.dev)
+- 📬 [email](mailto:hi@mgross.dev)
