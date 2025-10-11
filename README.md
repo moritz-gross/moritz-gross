@@ -7,5 +7,5 @@
   
 ---
 
-- [personal website](https://moritz-gross.github.io/)
+- [homepage](https://moritz-gross.github.io/)
 - [email](mailto:hi@mgross.dev)
