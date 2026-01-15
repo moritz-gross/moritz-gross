@@ -1,4 +1,4 @@
-- currnltly I'm pursuing a Masters degree in Data Science.
+- currently I'm pursuing a Masters degree in Data Science.
 - my open-source contributions:
   - some small patches: [spin]( https://github.com/scientific-python/spin/issues/268), [Streamlit](https://github.com/streamlit/streamlit/issues/6277), [Cython](https://github.com/cython/cython/pull/6680)
   - [implementation](https://github.com/numpy/numpy/pull/29208) of the _Powersort_ algorithm in _Numpy_
