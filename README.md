@@ -2,6 +2,6 @@
 - my open-source contributions:
   - various works on [MathCAT](https://github.com/NSoiffer/MathCAT)
     - _MathCAT_ is used in many accessibility tools to let blind people work with mathematics
-  - [implementation](https://github.com/numpy/numpy/pull/29208) of the _Powersort_ algorithm in _Numpy_
+  - implementation of the [Powersort](https://github.com/numpy/numpy/pull/29208) algorithm in _Numpy_
     - an adaptive sorting algorithm designed to optimally exploit existing order in the input data with minimal overhead
   - some small patches: [spin]( https://github.com/scientific-python/spin/issues/268), [Streamlit](https://github.com/streamlit/streamlit/issues/6277), [Cython](https://github.com/cython/cython/pull/6680)
