@@ -1,5 +1,5 @@
 - currently I'm pursuing a Masters degree in Data Science.
-- my open-source contributions:
+- some of my open-source contributions:
   - various works on [MathCAT](https://github.com/NSoiffer/MathCAT)
     - _MathCAT_ is used in many accessibility tools to let blind people work with mathematics
   - implementation of the [Powersort](https://github.com/numpy/numpy/pull/29208) algorithm in _Numpy_
