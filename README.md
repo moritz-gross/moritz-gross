@@ -5,4 +5,4 @@
   - 🐈 [MathCAT](https://github.com/NSoiffer/MathCAT)
     - used in assistive technologies including _NVDA_ and _JAWS_ to support blind people to work with mathematics
   - 🛠️ [spin]( https://github.com/scientific-python/spin/issues/268), [Streamlit](https://github.com/streamlit/streamlit/issues/6277), [Cython](https://github.com/cython/cython/pull/6680)
-    - minor contributions
+    - small changes
