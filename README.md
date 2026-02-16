@@ -7,4 +7,4 @@
   - 🛠️ [spin]( https://github.com/scientific-python/spin/issues/268), [Streamlit](https://github.com/streamlit/streamlit/issues/6277), [Cython](https://github.com/cython/cython/pull/6680)
     - small changes
   - 🌊 [Sipura](https://github.com/sipura/Sipura)
-    - graph algorithm and data structures, used for some thesis projects
+    - graph algorithms and data structures, used for some thesis projects
