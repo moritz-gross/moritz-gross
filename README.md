@@ -1,5 +1,5 @@
-- pursuing a Masters degree in Data Science.
-- open-source contributions:
+- Currently pursuing a Masters degree in Data Science.
+- Some open-source contributions:
   - 💪 [Powersort](https://github.com/numpy/numpy/pull/29208) for *NumPy* ndarrays 
     - an adaptive sorting algorithm designed to optimally exploit existing order in the input data with minimal overhead
   - 🐈 [MathCAT](https://github.com/daisy/MathCAT)
