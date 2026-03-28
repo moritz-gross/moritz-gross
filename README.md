@@ -1,9 +1,9 @@
 - Currently pursuing a Masters degree in Data Science.
 - Some open-source contributions:
-  - 💪 [Powersort](https://github.com/numpy/numpy/pull/29208) for *NumPy* ndarrays 
+  - 💪 [Powersort](https://github.com/numpy/numpy/pull/29208) for `NumPy` ndarrays 
     - an adaptive sorting algorithm designed to optimally exploit existing order in the input data with minimal overhead
   - 🐈 [MathCAT](https://github.com/daisy/MathCAT)
-    - used in assistive technologies including _NVDA_ and _JAWS_ to support blind people to work with mathematics
+    - used in assistive technologies including `NVDA` and `JAWS` to support blind people to work with mathematics
   - 🛠️ [spin]( https://github.com/scientific-python/spin/issues/268), [Streamlit](https://github.com/streamlit/streamlit/issues/6277), [Cython](https://github.com/cython/cython/pull/6680)
     - small changes
   - 🌊 [Sipura](https://github.com/sipura/Sipura)
