@@ -5,7 +5,7 @@
     - an adaptive sorting algorithm designed to optimally exploit existing order in the input data with minimal overhead
   - 🐈 [MathCAT](https://github.com/daisy/MathCAT)
     - MathCAT helps blind people read mathematical content from websites by turning MathML into speech strings and Braille
-    - I work on the Rust code base itself and on Python tooling around localization progress for translations and rules. 
+    - I work on the Rust code base and on internal tooling for MathCAT translators. 
   - 🛠️ [spin]( https://github.com/scientific-python/spin/issues/268), [Streamlit](https://github.com/streamlit/streamlit/issues/6277), [Cython](https://github.com/cython/cython/pull/6680)
     - small changes
   - 🌊 [Sipura](https://github.com/sipura/Sipura)
