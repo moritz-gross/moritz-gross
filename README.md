@@ -11,4 +11,4 @@
   - 🌊 [Sipura](https://github.com/sipura/Sipura)
     - graph algorithms and data structures, used for some Bachelor theses
 ---
-Erdős number 3 :)
+- Erdős number 3   :)
