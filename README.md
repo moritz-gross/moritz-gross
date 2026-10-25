@@ -10,5 +10,10 @@
     - small changes
   - 🌊 [Sipura](https://github.com/sipura/Sipura)
     - graph algorithms and data structures, used for some Bachelor theses
+
+I'm open to contributing to new projects, both within my areas of expertise and new things.
+
+
 ---
+
 - Erdős number 3   :)
